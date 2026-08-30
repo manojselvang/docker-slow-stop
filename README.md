@@ -130,3 +130,10 @@ Using the exec form of `CMD` helps ensure your application runs as PID 1 and rec
 * Why containers sometimes take several seconds to stop
 * How to investigate container processes using `docker top`
 * How to implement graceful shutdown in Python
+
+## Author
+
+Manoj Selvan G
+Gmail: manojselvang@gmail.com
+GitHub: github.com/manojselvang
+LinkedIn: https://www.linkedin.com/in/manojselvang/
